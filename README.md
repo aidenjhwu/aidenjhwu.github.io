@@ -70,7 +70,7 @@ My research interests include vision-language agents, multimodal reasoning, game
 
 I am working on vision-language agents for interactive games and visual decision-making environments.
 
-### Vision-Language Game Agent
+### LLM Agent RL
 
 My previous work focused on RL for multi-turn tool use of LLM agents.
 
